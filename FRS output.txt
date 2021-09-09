@@ -1,0 +1,68 @@
+
+									......FLIGHT RESERVATION SYSTEM.......
+
+Flight Information:::
+Flight Number:IC8080 Airline:AIR INDIA Capacity: 50 Booked Seats:0 Available Seats:50
+Customer Option for Regular Ticket:::
+-------------------------------------------------------------------------------------------------------------------------------
+ 1
+Name:RAM Phone:20203014 Email:rk@gmail.com
+Street:MG Road City:MUMBAI State:MAHARASHTRA
+IC8086
+AIR INDIA
+PNR:80AA78 To:BANG From:DEL SeatNo: A10 Date:10/10/21 Depature Time: 0900 Arrival Time:1420 Price:4500.0
+
+Duration: 5.2hrs
+Special Services:SNACKS
+Ticket Booked...
+--------------------------------------------------------------------------------------------------------------------------------
+Happy Flying
+
+
+
+
+Customer Option for Tourist Ticket:::
+
+Enter the 5 location :
+
+1. JUHU   2. Mahalaxmi   3. SiddhiVinayak  4. BandraStand 5. Worli  6. Sealink  
+JUHU
+Mahalaxmi
+SiddhiVinayak
+BandraStand
+Worli
+-----------------------------------------------------------------------------------------------------------------------------------
+ 2
+Name:RAM Phone:20203014 Email:rk@gmail.com
+Street:MG Road City:MUMBAI State:MAHARASHTRA
+IC8087
+AIR INDIA
+PNR:609A78 To:MUM From:BANG SeatNo: B21 Date:15/10/21 Depature Time: 1800 Arrival Time:0900 Price:3500.0
+
+Duration: 33.0hrs
+
+Tourist Spot:
+  JUHU  Mahalaxmi  SiddhiVinayak  BandraStand  Worli
+Ticket Booked...
+-------------------------------------------------------------------------------------------------------------------------------------
+Happy Flying
+
+Flight Number:IC8080 Airline:AIR INDIA Capacity: 50 Booked Seats:2 Available Seats:48
+
+
+...Cancel Ticket...
+
+
+ 2
+Name:RAM Phone:20203014 Email:rk@gmail.com
+Street:MG Road City:MUMBAI State:MAHARASHTRA
+IC8087
+AIR INDIA
+PNR:609A78 To:MUM From:BANG SeatNo: B21 Date:15/10/21 Depature Time: 1800 Arrival Time:0900 Price:3500.0
+
+Ticket Cancelled
+
+
+Flight Number:IC8080 Airline:AIR INDIA Capacity: 50 Booked Seats:1 Available Seats:49
+
+Process finished with exit code 0
